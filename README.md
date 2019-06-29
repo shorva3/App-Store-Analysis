@@ -1,8 +1,6 @@
 # Project_1
 
 
-
-
 mikecheck dq
 
 Steve Horvath
@@ -18,5 +16,14 @@ jasasc,asmc
 dongq here
 
 Elizabeth 
+
 dq7 edit
 
+
+
+dq7 edit
+
+
+Elizabeth Test
+
+dq7 edit2
