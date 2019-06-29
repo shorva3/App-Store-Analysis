@@ -1,8 +1,6 @@
 # Project_1
 
 
-
-
 mikecheck dq
 
 Steve Horvath
@@ -19,4 +17,3 @@ dongq here
 
 Elizabeth 
 dq7 edit
-
