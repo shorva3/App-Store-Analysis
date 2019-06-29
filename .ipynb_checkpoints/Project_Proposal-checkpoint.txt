@@ -1,0 +1,30 @@
+Factors to build a successful mobile app
+
+Team Members: Steve Horvath, Dongkyu Yun, Abdullah Sher, Matt Migala, Elizabeth Klink
+
+Project Description: Advise app developers on which parameters to create a succesful/proftiable mobile app
+    * define parameters making a profitable (most revenue) mobile app
+    * compare Apple vs. Google mobile app data
+
+Data: 
+•	Apple mobile data -- https://www.kaggle.com/ramamet4/app-store-apple-data-set-10k-apps
+•	Google mobile data -- https://www.kaggle.com/lava18/google-play-store-apps. API 
+•	Mobile user ratings -- https://www.kaggle.com/mmsant/ratings-and-reviews-and-android-app-success
+•   Advertising data -- https://www.linkedin.com/pulse/how-calculate-mobile-advertising-revenue-app-100000-users-minak/ ( revenue cost/ mobile); https://9to5mac.com/2018/12/20/mobile-ad-data-2020/
+
+Questions:
+•	define success? 
+•       - Install vs. reviews
+        - CBA -- cost per/app and estimated advetising revenue
+•   Correlation of variables 
+•   Differences in app by provider
+
+Timeline/Next steps:
+• 7/1 - clean and evaluate data
+      - begin to determine which variables are important
+      - assign data analytic work
+• 7/3 - analyze 
+• 7/6 - analyze 
+• 7/8 - prepare presentation
+• 7/10 - presentation delivery
+    
