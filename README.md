@@ -1,32 +1,23 @@
 # Project_1
 
-
 mikecheck dq
 
 Steve Horvath
 
-
-
 dongQ
-
 
 jasasc,asmc
 
-
 dongq here
 
-Elizabeth  3
-
-dq7 edit
-
-
-
-dq7 edit
-
+Elizabeth 
 
 Elizabeth Test
 
-dq7 edit2
+Another update - EK
+
+
 
 module 3 sher
  112312312
+
